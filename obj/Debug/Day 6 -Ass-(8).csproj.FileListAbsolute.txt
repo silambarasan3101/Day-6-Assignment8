@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\bin\Debug\Day 6 -Ass-(8).exe.config
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\bin\Debug\Day 6 -Ass-(8).exe
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\bin\Debug\Day 6 -Ass-(8).pdb
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\obj\Debug\Day 6 -Ass-(8).csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\obj\Debug\Day 6 -Ass-(8).csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\obj\Debug\Day 6 -Ass-(8).csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\obj\Debug\Day 6 -Ass-(8).exe
+C:\Users\hp\source\repos\Day 6 -Ass-(8)\Day 6 -Ass-(8)\obj\Debug\Day 6 -Ass-(8).pdb
